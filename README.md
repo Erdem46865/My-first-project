@@ -44,3 +44,14 @@ cpp(код)
 
 struct Client {
     std::string name
+#include <iostream>
+#include <string>
+
+using namespace std; 
+
+int main(){
+
+    setlocale(LC_ALL, "Russian");
+
+
+	
